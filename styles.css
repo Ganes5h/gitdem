@@ -1,0 +1,11 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;    
+}
+body{
+    padding: 0;
+    margin: 0;
+}
