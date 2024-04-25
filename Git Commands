@@ -1,1 +1,5 @@
-
+git init 
+git add .
+git add file_name
+git commit -m "commit message"
+git push URL_of_REPO BRANCH_NAME
