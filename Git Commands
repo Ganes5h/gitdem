@@ -8,3 +8,4 @@ git push -f URL_of_REPO BRANCH_NAME
 git rm -r FILE_NAME
 git status 
 git remove add origin "URL"
+git touch "File_number"
