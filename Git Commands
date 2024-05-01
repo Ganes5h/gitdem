@@ -10,4 +10,4 @@ git status
 git remove add origin "URL"
 git touch "File_name"
 git checkout "BRANCH_NAME"
-git branch -m "BRANCH_NAMR"
+git branch -m "BRANCH_NAME"
